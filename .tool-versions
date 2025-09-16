@@ -1,0 +1,7 @@
+# This file is used by asdf to manage the versions of the tools used in this project
+#
+# See README-asdf.md for more information on how to use asdf
+
+golangci-lint 2.4.0
+terraform 1.13.2
+
